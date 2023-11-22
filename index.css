@@ -1,0 +1,7 @@
+body{background-color: #000000}
+table{background-color: #0D0D0D;width:1000px;margin-left: auto;margin-right: auto;}
+th{font-size: 100px;font-family: sans-serif;color: #F5F5F5}
+td{font-size: 20px;font-family: Arial;color: #F5F5F5;border-style: solid;}
+.menu{font-size: 25px;font-family: Arial;color: #F5F5F5;text-align: center;}
+.imgprin{width: 1250px;height: 600px;}
+img{width: 300px;}
